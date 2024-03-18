@@ -2,6 +2,11 @@
 
 The machine learning model of Thai news headlines analysis for Google extension is developed using Python language for classify Thai news headline that is receive from the extension.
 
+## Dataset
+The dataset is in the format of a `.csv` file which contains two labels including `category` of the news headline and `texts` or the news headline content. The data were collected from Anti-Fake News Center Thailand.<br/>
+<br/>Follow this link for more information about the dataset source: https://www.antifakenewscenter.com <br/>
+<br/> In this project, a total of 2640 news headlines were collected in this dataset.
+
 ## ML Models that are experimented in this project
 * k Nearest Neighbor(k-NN)
 * Support Vector Machine(SVM)
