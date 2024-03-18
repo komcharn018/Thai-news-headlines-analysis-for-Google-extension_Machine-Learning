@@ -10,6 +10,7 @@ The machine learning model of Thai news headlines analysis for Google extension 
 
 ## Installation
 ### Requriments ###
+Note: if you prefer to use Google Colab you can skip the following steps.
 * #### Use Python version 3.9.13 or newer version ####
 * #### Create a virtual environment (recommend) ####
 1. Open the terminal and change your directory (cd) into the the directory that you want to train the model
@@ -40,7 +41,7 @@ pip3 install [package name]
 
 ## Model training
 The model training can be done by the following steps:
-1. Open the Integrated Development Environment(IDE) that you prefer to use, Visual Studio Code is recommended.
+1. Open the Integrated Development Environment(IDE) that you prefer to use, Visual Studio Code or Google Colab is recommended.
 2. Choose the model that you want to train, in this repository, the available models include:
 * k Nearest Neighbor(k-NN)
 * Support Vector Machine(SVM)
