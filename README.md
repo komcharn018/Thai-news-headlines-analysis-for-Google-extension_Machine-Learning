@@ -2,7 +2,7 @@
 
 The machine learning model of Thai news headlines analysis for Google extension is developed using Python language for classify Thai news headline that is receive from the extension.
 
-## Models that are used in this project
+## ML Models that are experimented in this project
 * k Nearest Neighbor(k-NN)
 * Support Vector Machine(SVM)
 * Multinomial Naive Bayes(NB)
