@@ -48,12 +48,12 @@ pip3 install [package name]
 The model training can be done by the following steps:
 1. Open the Integrated Development Environment(IDE) that you prefer to use, Visual Studio Code or Google Colab is recommended.
 2. Choose the model that you want to train, in this repository, the available models include:
-* k Nearest Neighbor(k-NN)
+* K Nearest Neighbor(k-NN)
 * Support Vector Machine(SVM)
 * Multinomial Naive Bayes(NB)
 * XGBoost Random Forest(xgbRF)
-4. Run the model code in the IDE and wait until the code is finished complied.
-5. Once the code is finish complied, the output will be the pickle file `.pkl` of the model which is store in folder `pkl`.<br/>
-6. (Additional) If you prefer to change the model parameters you can do it.
+3. Run the model code in the IDE and wait until the code is finished complied.
+4. Once the code is finish complied, the output will be the pickle file `.pkl` of the model which is store in folder `pkl`.<br/>
+5. (Additional) If you prefer to change the model parameters you can do it.
 
 Note: you can use those `.pkl` for the classification in `extension.py`
