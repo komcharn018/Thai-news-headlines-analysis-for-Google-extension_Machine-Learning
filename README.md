@@ -57,3 +57,4 @@ The model training can be done by the following steps:
 5. (Additional) If you prefer to change the model parameters you can do it.
 
 Note: you can use those `.pkl` for the classification in `extension.py`
+You can follow this link for the extension part of this project: https://github.com/komcharn018/Thai-news-headlines-analysis-for-Google-extension_Extension
