@@ -57,7 +57,7 @@ The model training can be done by the following steps:
 <br/> Word embedding models:
 * Gaussian Naive Bayes
 * Support Vector Machine(SVM)
-* * XGBoost Random Forest(xgbRF)
+* XGBoost Random Forest(xgbRF)
 * K Nearest Neighbor(k-NN)
 3. Run the model code in the IDE and wait until the code is finished complied.
 4. Once the code is finish complied, the output will be the pickle file `.pkl` of the model which is store in folder `pkl`.<br/>
